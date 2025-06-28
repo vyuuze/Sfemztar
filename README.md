@@ -16,7 +16,6 @@
 <div align="center"> ; 𝓐𝓑𝓞𝓤𝓣 𝓜𝓔 </div>
 
 - mainly developing bugs
-- learning Py & Js
 - 18yo
 
 <h2></h2>
