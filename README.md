@@ -1,4 +1,4 @@
-<h1 align="center">; 𝔑𝔬𝔱𝔥𝔦𝔫𝔤 𝔬𝔣 𝔳𝔞𝔩𝔲𝔢</h1>
+<h1 align="center">; 𝓝𝓸𝓽𝓱𝓲𝓷𝓰 𝓸𝓯 𝓿𝓪𝓵𝓾𝓮</h1>
 
 <div align="center">
   <img height="200" src="https://github.com/Sfemztar/Sfemztar/blob/main/assets/punpun.png" />
@@ -13,7 +13,7 @@
 <img src="https://github.com/Sfemztar/Sfemztar/blob/main/assets/z.png" />
 </div>
 
-<div align="center"> ; 𝓐𝓑𝓞𝓤𝓣 𝓜𝓔 </div>
+<div align="center"> ; 𝓐𝓑𝓞𝓤𝓣 𝓜𝓔</div>
 
 - mainly developing bugs
 - 18yo
